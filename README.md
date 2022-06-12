@@ -1,6 +1,6 @@
 ### Hola 👋
 
-- 🔭 I’m currently working on: ArchR, a package for scATAC-seq analysis  
+- 🔭 I’m currently working on: [ArchR](https://www.archrproject.com/), a package for scATAC-seq analysis  
 - 🌱 I’m currently learning: transformers for DNA  
 - 👯 I’m looking to collaborate on: translational bioinformatics
 - 💬 Ask me about: hobbies, challenges, biotech, what happens when we sleep
