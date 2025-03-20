@@ -1,4 +1,4 @@
-### Hola 👋
+### Hi/Hola/Bonjour 👋
 
 - 🔭 I’m currently working on: Master's at Stanford
 - 🌱 I’m currently learning: Bayesian inference
